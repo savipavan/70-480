@@ -1,0 +1,36 @@
+05-02-207
+---------
+Certfication path
+https://www.pluralsight.com/blog/software-development/learning-path-programming-in-html5-with-javascript-and-css3-microsoft-exam-70-480
+
+Pluralsight courses
+html --> w3shools
+
+Code --> rightclick --> view source
+
+how the DNS looup works
+
+Created sample.txt
+starting and closing elements are called tags
+tags may contain attribute(Kind of properties)
+
+ex.
+<html>
+
+</html>
+-<html> is an elements
+-<html> </html> - called tags
+
+What tag and what is does
+
+<label> tag example
+<input> controller tag
+
+w3c - world wide web consrtium(w3c)
+
+html5 browser compatability
+
+self closing element
+<lable>Passowrd:</label><input type="button" value="Submit"></input>
+<lable>Passowrd:</label><input type="button" value="Submit" />
+
